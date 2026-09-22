@@ -145,6 +145,5 @@ Features:
 
 ## Author
 
-Sajan Sah
-B.Tech in Computer Science & Engineering  
-Minor in Applied Machine Learning
+Naveed Khan
+student in Awkum Mardan Timergara Campus
